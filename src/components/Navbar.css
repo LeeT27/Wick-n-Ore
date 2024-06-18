@@ -162,7 +162,7 @@
     border: 3px solid transparent;
     border-radius: 25px;
     font-size: 1.75rem;
-    font-weight: 800 !important;
+    font-weight: 300 !important;
   }
   #nav2 h5:hover {
     font-size: 1.563rem;
