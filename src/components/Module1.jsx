@@ -27,7 +27,7 @@ function Module1() {
             }}
             id="module1Text"
           >
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            orem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </motion.h4>
           <motion.button
