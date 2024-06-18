@@ -164,4 +164,8 @@
     font-size: 1.75rem;
     font-weight: 800 !important;
   }
+  #nav2 h5:hover {
+    font-size: 1.563rem;
+    font-weight: 300;
+  }
 }
